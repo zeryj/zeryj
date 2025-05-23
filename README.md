@@ -1,14 +1,15 @@
 
 ![banner](img/banner.png)
 
-# **Hello, my name is Fazri Dwi Kurniawan**
-<h3 align="left">A passionate Backend developer from Indonesia</h3>
+<h3 align="left">Hello, my name is Fazri Dwi Kurniawan</h3>
+<h4 align="left">A passionate Backend developer from Indonesia</h4>
 
-# __SKILLS__ :
+#
+
+<h3 align="left">SKILLS:</h3>
+
 ![gemini](img/GEMINI.png)
 ![chatGPT](img/CHATGPT.png)
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -33,15 +34,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-# **MY HOBBY :**
-- <h3>read book
-- <h3>play game
-- <h3>coding
-
 #
 
-###
+<h3> MY HOBBY :</h3>
 
+- <h4>read book
+- <h4>play game
+- <h4>coding
+
+#
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313oc73rhcb4yxkcqds3irhbi6qi)
 
@@ -85,8 +86,7 @@
 
 </p>
 
-<p>
+
 <img align="right" height="150" src="img/hina.jpeg"/>
 
  > <h2 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h2>
-</p>
