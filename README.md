@@ -87,6 +87,10 @@
 </p>
 
 
-<img align="right" height="150" src="img/hina.jpeg"/>
 
- > <h2 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h2>
+
+ > <h3 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h3>
+
+<img align="center" width="300" height="auto" src="img/hina.jpeg"  hight="10"/>
+
+#
