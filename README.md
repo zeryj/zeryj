@@ -1,12 +1,12 @@
 
-![banner](img/github-header-image%20(1).png)
+![banner](img/banner.png)
 
 # **Hello, my name is Fazri Dwi Kurniawan**
 <h3 align="left">A passionate Backend developer from Indonesia</h3>
 
 # __SKILLS__ :
-![gemini](img/image.png)
-![chatGPT](img/image%20copy.png)
+![gemini](img/GEMINI.png)
+![chatGPT](img/CHATGPT.png)
 ###
 
 <div align="left">
@@ -55,7 +55,7 @@
 
 ###
 
-<img align="right" height="150" src="img/Proyek Baru 44 [A975050].png"/>
+<img align="right" height="150" src="img/chinatsu.png"/>
 
 ###
 
@@ -87,6 +87,5 @@
 
 </p>
 
-###
-<img align="right" height="150" src="img/WhatsApp Image 2025-05-24 at 01.35.42.jpeg"/>
+<img align="right" height="150" src="img/hina.jpeg"/>
 <h2 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h2>
