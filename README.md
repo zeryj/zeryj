@@ -34,11 +34,9 @@
 </div>
 
 # **MY HOBBY :**
-<h3>
-<p>- read book</p>
-<p>- play game</p>
-<p>- coding</p>
-<h3>
+- <h3>read book
+- <h3>play game
+- <h3>coding
 
 #
 
@@ -87,5 +85,8 @@
 
 </p>
 
+<p>
 <img align="right" height="150" src="img/hina.jpeg"/>
-<h2 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h2>
+
+ > <h2 align="center">"Programming isn’t about what you know; it’s about what you can figure out."</h2>
+</p>
