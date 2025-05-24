@@ -1,12 +1,19 @@
 
-![banner](img/banner.png)
+<img src="img/chinatsu.gif" />
 
-<h3 align="left">Hello, my name is Fazri Dwi Kurniawan</h3>
-<h4 align="left">A passionate Backend developer from Indonesia</h4>
+<h1 align="left">Hi, I'm Fazri Dwi Kurniawan</h1>
 
-#
+<h3 align="left">ABOUT ME :</h3>
+<h4 align="left">A passionate Backend developer from Indonesia.</h4>
+<p>
 
-<h3 align="left">SKILLS:</h3>
+<h4>I am a Backend Developer specializing in building applications using PHP and Laravel, with experience in managing MySQL databases. I focus on creating efficient APIs, scalable systems, and secure, maintainable backend solutions.
+
+</p>
+
+###
+
+<h3 align="left">SKILLS :</h3>
 
 ![gemini](img/GEMINI.png)
 ![chatGPT](img/CHATGPT.png)
@@ -34,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-#
+###
 
 <h3> MY HOBBY :</h3>
 
@@ -54,9 +61,9 @@
 
 ###
 
-<img align="right" height="150" src="img/chinatsu.png"/>
+<img align="right" height="150" src="img/Chinatsu [C039C44].gif"/>
 
-###
+#
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -90,6 +97,15 @@
 
  > <h3 align="left">"Programming isn’t about what you know; it’s about what you can figure out."</h3>
 
+<<<<<<< HEAD
 #
 
 <img align="left" width="200" height="auto" src="img/hina.jpeg"  hight="10"/>
+=======
+<img align="right" width="300" height="auto" src="img/hina.jpeg"  hight="10"/>
+
+ > <h3 align="left">"Programming isn’t about what you know; it’s about what you can figure out."</h3>
+
+
+#
+>>>>>>> b860459 (update)
