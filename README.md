@@ -95,9 +95,8 @@
 
 #
 
+ > <h2 align="left">"Programming isn’t about what you know; it’s about what you can figure out."</h2>
 
-<img align="right" width="300" height="auto" src="img/hina.jpeg"  hight="10"/>
-
- > <h3 align="left">"Programming isn’t about what you know; it’s about what you can figure out."</h3>
+<img align="left" width="300" height="auto" src="img/hina.jpeg"  hight="10"/>
 
 #
