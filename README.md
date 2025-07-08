@@ -1,5 +1,5 @@
 
-<img src="img/chinatsu.gif" />
+ <!-- <img src="img/chinatsu.gif" /> -->
 
 <h1 align="left">Hi, I'm Fazri Dwi Kurniawan</h1>
 
@@ -97,5 +97,5 @@
 
  > <h2 align="left">"Programming isn’t about what you know it’s about what you can figure out."</h2>
 
-<img align="left" width="300" height="auto" src="img/hina.jpeg"  hight="10"/>
+<!-- <img align="left" width="300" height="auto" src="img/hina.jpeg"  hight="10"/> -->
 
